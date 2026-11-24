@@ -1,0 +1,1 @@
+{"description":"One single-line office joke for the make.fun Office Joke Open","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"office-joke-open","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
